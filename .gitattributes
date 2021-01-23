@@ -1,0 +1,1 @@
+service[[:space:]]provider[[:space:]]app/** filter=lfs diff=lfs merge=lfs -text
